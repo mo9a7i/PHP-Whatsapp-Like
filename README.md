@@ -10,7 +10,9 @@ It can serve as an exercise to create functions as optimized as possible to deli
 
 
 <h2>TODO</h2>
-* Install OpenFire on a private server
+* Install OpenFire on a private server **(Done)**
+* Configure OpenFire
+* Create Ajax Page to connect to server
 * Create Database to store messages for a period of time
 * Upload a CI Blank template **(Done)**
 * EMOJI implementation
