@@ -1,12 +1,26 @@
-<h1>PHP-Whatsapp-Like</h1>
-Goal of this repo is to mimic as much as possible the functionalities of Whatsapp, that famous messaging platform.
-It can serve as an exercise to create functions as optimized as possible to devlier same as Whatsapp's functionalities.
+<h1>PHP-WhatsApp-Like</h1>
+Goal of this REPO is to mimic as much as possible the functionalities of WhatsApp, that famous messaging platform.
+It can serve as an exercise to create functions as optimized as possible to deliver same as WhatsApp's functionalities.
 
 <h2>Based on</h2>
 * MySQL
 * CodeIgniter (PHP)
-* OpenFire
+* OpenFire (On a CentOs 6 Server)
 * Twitter Bootstrap (CSS)
+
+
+<h2>TODO</h2>
+* Install OpenFire on a private server
+* Create Database to store messages for a period of time
+* Upload a CI Blank template **(Done)**
+* EMOJI implementation
+* Upload Files and images
+* Auto show YouTube thumbnail
+* Last-seen
+* Check WhatsApp settings and mimic them
+* Copy database schema to project (Create a function to dump it with data)
+
+
 
 **Feel free to fork and push your changes, changes and enhancements are always welcome**
 **Read the TODO.md file to check progress**
