@@ -19,6 +19,7 @@ It can serve as an exercise to create functions as optimized as possible to deli
 * Upload Files and images
 * Auto show YouTube thumbnail
 * Last-seen
+* Is typing
 * Check WhatsApp settings and mimic them
 * Copy database schema to project (Create a function to dump it with data)
 
