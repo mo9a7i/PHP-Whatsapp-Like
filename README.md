@@ -11,8 +11,10 @@ It can serve as an exercise to create functions as optimized as possible to deli
 
 <h2>TODO</h2>
 * Install OpenFire on a private server **(Done)**
-* Configure OpenFire
-* Create Ajax Page to connect to server
+* Configure OpenFire **(Done)**
+* Create Ajax Page to connect to server **(Changed Decision, Testing in PHP)**
+* Install XMPPHP Library (https://code.google.com/p/xmpphp/)
+* Test sending a message to another user (used pidgin client for windows to receive the message on another user) **(Success but with error messages)**
 * Create Database to store messages for a period of time
 * Upload a CI Blank template **(Done)**
 * EMOJI implementation
