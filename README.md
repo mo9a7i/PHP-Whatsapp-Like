@@ -16,6 +16,7 @@ It can serve as an exercise to create functions as optimized as possible to deli
 * Install XMPPHP Library (https://code.google.com/p/xmpphp/)
 * Read more about XMPP and BOSH, What is BOSH? is it necessary ?
 ** (http://www.slideshare.net/guest488a24/xmpp-in-real-time)
+** (http://www.slideshare.net/remko.troncon/xmpp-101)
 * Test sending a message to another user (used pidgin client for windows to receive the message on another user) **(Success but with error messages)**
 * Create Database to store messages for a period of time
 * Upload a CI Blank template **(Done)**
